@@ -2,7 +2,11 @@
 
 This repository consists of the source code of python with some snapshot or video.
 
-## Video of this project
+## 📸Snapshot
+
+<img src="https://user-images.githubusercontent.com/92217305/182356044-f4b0a02c-207e-40eb-bb1c-f0638b80220b.png" width="800" height="450" />
+
+## 🎥Video of this project
 
 
 https://user-images.githubusercontent.com/92217305/182359465-d7af593d-aa42-4273-a58c-051d9211a08d.mp4
@@ -15,11 +19,8 @@ So my friend said we are making a BINARY CALCULATOR for solving this problem. At
 
 In the end, I and my friend Prince Singh finally did this project. --->
 
-## Snapshot
 
-<img src="https://user-images.githubusercontent.com/92217305/182356044-f4b0a02c-207e-40eb-bb1c-f0638b80220b.png" width="800" height="450" />
-
-## About our project
+## 🙋‍♀️About our project
 
 Language and Tools: Python, For GUI (Tkinter, it is the standard GUI library for Python)
 
@@ -44,7 +45,7 @@ The tasks performed by this project :-
      - OR opertor
      - XOR operator
 
-## Future Scope
+## ⌛Future Scope
 In future we will add a algorithm to handle floating decimal’s Value in operation and conversion. Also modify for scientific calculation like, speed of light, gravity, log antilog.
 In future we use this calculator for security purpose.
 
