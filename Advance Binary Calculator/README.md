@@ -24,15 +24,20 @@ The tasks performed by this project :-
      - Binary Conversion
      - Octal Conversion
      - Hexa-Decimal Conversion
-     
-2. Binary Operation
+2. Binary Operations
      - Addition
      - Subtraction
      - Multiplication
-     - Division
-3. 1' & 2's complement
-4. Binary Encryption and Decryption
-5. Bitwise Operator
-6. Binary left and right shift
+     - Division   
+3. 1's and 2's Complement
+4. Binary Left and Right Shift
+5. Binary Encryption and Decryption
+6. Bitwise Operators
+     - AND operator
+     - OR opertor
+     - XOR operator
+
+## Video of this project
 
 
+https://user-images.githubusercontent.com/92217305/182354713-73ad3bde-fe20-4ff8-802a-91379e0f9ba7.mp4
