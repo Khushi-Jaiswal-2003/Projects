@@ -4,7 +4,7 @@ This repository consists of the source code of python with some snapshot or vide
 ## 📸Snapshot of Project
 <img src="https://user-images.githubusercontent.com/92217305/183237916-00048971-40be-45a1-b350-186aed9c1442.jpg" width="800" height="450" />
 
-## Video of Project
+## 🎥Video of Project
 
 https://user-images.githubusercontent.com/92217305/183237990-5c1a742d-7f76-45df-8919-69866128f550.mp4
 
